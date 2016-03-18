@@ -1,3 +1,2 @@
-# dadax
-This is a readme file
-Just READ ME!
+# preCourseWork
+Precourse work content for Moringa School
