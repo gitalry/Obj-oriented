@@ -7,5 +7,4 @@ Create a HTML and CSS one page website using [core_guide.jpg](https://github.com
  1. You may use a font of your liking.
  2. Do not change the layout or image sizes.
 
-
 All the best.
