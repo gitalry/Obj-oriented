@@ -1,2 +1,2 @@
 # preCourseWork
-Precourse work content for Moringa School
+Precourse work content for Moringa
