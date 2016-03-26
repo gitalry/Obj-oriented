@@ -1,0 +1,4 @@
+
+Abstraction
+Abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. It denotes a model, a view, or some other focused representation for an actual item. They hide the details of their implementation
+Data abstraction is closely tied together with encapsulation. 

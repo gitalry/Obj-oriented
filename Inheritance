@@ -1,0 +1,5 @@
+
+Inheritance
+This is reusing code of existing objects, or establishing a subtype from an existing object,or both depending upon programming language support. 
+Classical Ineritance-classescan inherit attributes and bejaviour from pre-existing  classes called base classes, superclass, parent class or ancestor classes. THe resulting/inheriting classes are known as derived classes, subclasses or child classes. this gives a hierarchy relationship.
+properties inheritd include data variables, methods and functions

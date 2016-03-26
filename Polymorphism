@@ -1,0 +1,10 @@
+
+Polymorphism means one name, many forms. It manifests itself by having multiple methods all with the same name, but slightly different functionality.
+
+2 basics of polymorphism
+Overriding
+Also known as run-time polymorphism . For method overloading, the compiler determines which method will be executed, and this decision is made when the code gets compiled.
+
+Overloading,
+Known to as compile-time polymorphism. Method will be used for method overring is determined at runtime based on the dynamic type of an object.
+ 

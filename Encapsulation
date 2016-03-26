@@ -1,0 +1,11 @@
+
+Encapsulation is the hiding of data implementation by restricting access to accessors and mutators.
+Basically the internal representation/ properties is hidden from view outside of the object's definition. Only the Object's own method can access and manipulate its fields.
+
+Accessor
+An accessor is a method used to ask an object about itself. They are ussually in form of properties, eg, the get() method
+
+Mutator
+It is a public method that is used to modify/manipulate the state of an object, while hiding the implememntation of exactly how the data gets modified. e.g the Set() method lets the caller modify the member data behind the scenes.
+
+
